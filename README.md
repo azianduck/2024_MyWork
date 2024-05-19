@@ -1,70 +1,61 @@
-<div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/52044642/331777330-fea5de3d-ee4f-4174-9af0-fc991efd0021.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240518T074635Z&X-Amz-Expires=300&X-Amz-Signature=4a23de5c133cf0095fe3ec9c04a6382b95eb9fffe6e367c758b0f80fe8caf6b5&X-Amz-SignedHeaders=host&actor_id=52044642&key_id=0&repo_id=802391509" alt="Image Description" width="200" height="150"></div>
 
-<h1 color=yellow> VR Commercial Bank Metaverse Project </h1>
-<h3>Overview</h3>
-Led the front-end development for a VR commercial bank metaverse project, creating an immersive and interactive experience for users to explore banking services in a virtual environment.
+h1
+
+<h2 color=yellow> VR BankVerse Concept</h2>
 
 <div align="center">
   
-[![YouTube](http://i.ytimg.com/vi/C96x1H4rtcE/hqdefault.jpg)](https://www.youtube.com/watch?v=C96x1H4rtcE)
-
+[![YouTube](http://i.ytimg.com/vi/jJvUuu7kjlI/hqdefault.jpg)](https://www.youtube.com/watch?v=jJvUuu7kjlI)
+<h6><i><p align="center" size="1px">(Click the image to play video)</p></i></h6>
 </div>
-<details>
-<summary><h2>     Key Contributions: </h2></summary>
+
+<h3>Overview</h3>
 <pre>
-    <li>Integrated multiplayer with Photon, including avatar customization and user information management.</li>
-    <li>Designed and implemented a wristwatch-activated quick-access menu for seamless VR interaction.</li>
-    <li>Implemented key features within the quick-access menu, such as teleport, information access, and avatar customization.</li>
-    <li>Developed a user-friendly character customization system.</li>
-    <li>Conceptualized and developed a real-time 2D minimap that dynamically syncs with the 3D VR world.</li>
-    <li>Debugged and resolved issues in VR builds to ensure on-time delivery.</li>
-    <li>Leveraged expertise in VR best practices to optimize user experience and comfort.</li>
+<li><b>Multiplayer Integration:</b> Seamlessly integrated Photon Unity Networking for real-time avatar interactions and information sharing.</li>
+<li><b>Quick Access Menu:</b> Designed and implemented an intuitive wristwatch-activated menu for teleporting, accessing information, and customizing avatars.</li>
+<li><b>Character Customization:</b> Created a versatile character customization system, allowing users to personalize their avatars.</li>
+<li><b>Real-time 2D Minimap:</b> Developed a dynamic 2D minimap that updates in real-time, providing users with a clear overview of the 3D environment.</li>
+<li><b>Performance Optimization & UX:</b> Optimized VR builds, ensuring smooth performance and a comfortable user experience.</li>
 </pre>
-</details>
+
 
 **Additional Notes:**
 This project is currently unpublished and under development. More details and visuals will be available upon release.
 
-<h1 color=yellow> A B C D PROJECT </h1>
-<h3>Overview</h3>
-Led the front-end development for a VR commercial bank metaverse project, creating an immersive and interactive experience for users to explore banking services in a virtual environment.
-
+<h2 color="yellow">Unilever VR Store event</h2>
+<div align="center">
+ ---
+</div>
 <div align="center">
   
 [![YouTube](http://i.ytimg.com/vi/15fJv0j7gZo/hqdefault.jpg)](https://www.youtube.com/watch?v=15fJv0j7gZo)
-
+<h6><i><p align="center" size="1px">(Click the image to play video)</p></i></h6>
 </div>
-<details>
-<summary><h2>     Key Contributions: </h2></summary>
-<pre>
-    <li>Integrated multiplayer with Photon, including avatar customization and user information management.</li>
-    <li>Designed and implemented a wristwatch-activated quick-access menu for seamless VR interaction.</li>
-    <li>Implemented key features within the quick-access menu, such as teleport, information access, and avatar customization.</li>
-    <li>Developed a user-friendly character customization system.</li>
-    <li>Conceptualized and developed a real-time 2D minimap that dynamically syncs with the 3D VR world.</li>
-    <li>Debugged and resolved issues in VR builds to ensure on-time delivery.</li>
-    <li>Leveraged expertise in VR best practices to optimize user experience and comfort.</li>
-</pre>
-</details>
-
-<h1 color=yellow> A B C D PROJECT </h1>
 <h3>Overview</h3>
-Led the front-end development for a VR commercial bank metaverse project, creating an immersive and interactive experience for users to explore banking services in a virtual environment.
+<pre><li>Developed an immersive VR supermarket simulation featuring a robot guide and interactive product information.</li></pre>
+
+<h2>Asmara clothing store VR</h2>
 <div align="center">
   
-[![YouTube](http://i.ytimg.com/vi/jJvUuu7kjlI/hqdefault.jpg)](https://www.youtube.com/watch?v=jJvUuu7kjlI)
-
+[![YouTube](http://i.ytimg.com/vi/C96x1H4rtcE/hqdefault.jpg)](https://www.youtube.com/watch?v=C96x1H4rtcE)
+<h6><i><p align="center" size="1px">(Click the image to play video)</p></i></h6>
 </div>
-<details>
-<summary><h2>     Key Contributions: </h2></summary>
+
+<h3>Overview</h3>
 <pre>
-    <li>Integrated multiplayer with Photon, including avatar customization and user information management.</li>
-    <li>Designed and implemented a wristwatch-activated quick-access menu for seamless VR interaction.</li>
-    <li>Implemented key features within the quick-access menu, such as teleport, information access, and avatar customization.</li>
-    <li>Developed a user-friendly character customization system.</li>
-    <li>Conceptualized and developed a real-time 2D minimap that dynamically syncs with the 3D VR world.</li>
-    <li>Debugged and resolved issues in VR builds to ensure on-time delivery.</li>
-    <li>Leveraged expertise in VR best practices to optimize user experience and comfort.</li>
+<li>Designed and implemented a VR clothing store with an intuitive clothes selection interface.</li>
+<li>Enabled users to interact with clothing models through grabbing functionality.</li>
+<li>Optimized scene performance for a seamless VR experience. </li>
 </pre>
-</details>
+
+<h1 color=yellow>Freelance Project: 3D Showroom Visualization</h1>
+<div align="center">
+  
+[![YouTube](http://i.ytimg.com/vi/3on5x2Ot4IA/hqdefault.jpg)](https://www.youtube.com/watch?v=3on5x2Ot4IA)
+<h6><i><p align="center" size="1px">(Click the image to play video)</p></i></h6>
+</div>
+
+<h3>Overview</h3>
+<pre><li>Collaborated with a client to create a realistic and immersive VR experience of their showroom.</li>
+<li>Utilized provided 3D meshes and developed custom materials, textures, and lighting within Unity to achieve the client's desired aesthetic.</li>
+<li>Optimized scene performance by baking lighting, ensuring a smooth and responsive VR experience for the client.</li></pre>
