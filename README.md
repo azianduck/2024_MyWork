@@ -1,5 +1,5 @@
 
-h1
+<h1 align=center>My Work Portfolio</h1>
 
 <h2 color=yellow> VR BankVerse Concept</h2>
 
@@ -34,7 +34,7 @@ This project is currently unpublished and under development. More details and vi
 <h3>Overview</h3>
 <pre><li>Developed an immersive VR supermarket simulation featuring a robot guide and interactive product information.</li></pre>
 
-<h2>Asmara clothing store VR</h2>
+<h2 color=yellow>Asmara clothing store VR</h2>
 <div align="center">
   
 [![YouTube](http://i.ytimg.com/vi/C96x1H4rtcE/hqdefault.jpg)](https://www.youtube.com/watch?v=C96x1H4rtcE)
@@ -48,7 +48,7 @@ This project is currently unpublished and under development. More details and vi
 <li>Optimized scene performance for a seamless VR experience. </li>
 </pre>
 
-<h1 color=yellow>Freelance Project: 3D Showroom Visualization</h1>
+<h2 color=yellow>Freelance Project: 3D Showroom Visualization</h2>
 <div align="center">
   
 [![YouTube](http://i.ytimg.com/vi/3on5x2Ot4IA/hqdefault.jpg)](https://www.youtube.com/watch?v=3on5x2Ot4IA)
@@ -59,3 +59,15 @@ This project is currently unpublished and under development. More details and vi
 <pre><li>Collaborated with a client to create a realistic and immersive VR experience of their showroom.</li>
 <li>Utilized provided 3D meshes and developed custom materials, textures, and lighting within Unity to achieve the client's desired aesthetic.</li>
 <li>Optimized scene performance by baking lighting, ensuring a smooth and responsive VR experience for the client.</li></pre>
+
+
+<h2 color=yellow> Etown Web App </h2>
+<div align="center">
+
+![asz](https://github.com/azianduck/2024_MyWork/assets/52044642/ebe3a0e3-61d2-4253-9511-22d3cc693bf1)
+</div>
+
+<h3>Overview</h3>
+<pre>
+<li>An interactive learning platform for kids to learn English, use by national English School.</li>
+<li>Try it here : https://etown-quiz.web.app/home</li></pre>
