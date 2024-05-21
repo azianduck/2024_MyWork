@@ -20,7 +20,7 @@
 
 
 **Additional Notes:**
-This project is currently unpublished and under development. More details and visuals will be available upon release.
+This project is a concept developed to showcase the potential applications of VR technology in the banking industry.
 
 <h2 color="yellow">Unilever VR Store event</h2>
 <div align="center">
